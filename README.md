@@ -48,3 +48,8 @@ Hyperparameter Tuning
 Final Prediction
       ↓
 Streamlit Dashboard
+
+photos:
+<img width="1911" height="903" alt="image" src="https://github.com/user-attachments/assets/1298685a-a3ed-4b36-b389-978ac711fdd1" />
+<img width="1903" height="903" alt="image" src="https://github.com/user-attachments/assets/63131f7d-64d2-4cb7-b763-132288e59def" />
+
